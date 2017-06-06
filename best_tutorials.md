@@ -9,4 +9,5 @@ There are so many things to learn in the world of CS. There are some crucial one
 | git | <p>http://learngitbranching.js.org/ </p> https://git-scm.com/book/en/v2| <p>:star: </p> :star: :star: :star: |
 | mpi | http://mpitutorial.com/tutorials/ | :question: |
 | openmp | https://computing.llnl.gov/tutorials/openMP/ | :question: |
+| python-C | http://dan.iel.fm/posts/python-c-extensions/ | :star:| 
 
